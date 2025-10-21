@@ -1,6 +1,6 @@
 ## Hey, I'm Adrian:
-  Full Stack Developer | UI/UX | Turning Ideas into Scalable Products
-  <br>- I build full-stack web and mobile applications that solve real-world problems in underserved communities.
+  Full Stack Developer | UI/UX | Problem Solver
+  <br><br>- I build full-stack web and mobile applications that solve real-world problems in underserved communities.
   <br>📱 I'm focused on shipping useful tools fast, from trust-based lending platforms to GPA calculators and transport apps.
   <br>- My work bridges tech and the Pacific, making digital solutions accessible where it matters most.
   <br>- I love turning ideas into production-ready apps using tools like React, Supabase, and Expo.<br>- Self-taught in many areas, always learning, always shipping.<br>
