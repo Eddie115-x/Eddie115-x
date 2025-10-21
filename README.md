@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hey, I'm Adrian:
 👨🏽‍💻 I'm a passionate Software Engineer from the Solomon Islands, currently based in Fiji.<br>🚀 I build full-stack web and mobile applications that solve real-world problems in underserved communities.<br>📱 I'm focused on shipping useful tools fast, from trust-based lending platforms to GPA calculators and transport apps.<br>🌴 My work bridges tech and the Pacific, making digital solutions accessible where it matters most.<br>🎯 I love turning ideas into production-ready apps using tools like React, Supabase, and Expo.<br>🧠 Self-taught in many areas, always learning, always shipping.<br>
 
 # 💻 Tech Stack:
