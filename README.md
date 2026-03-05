@@ -1,5 +1,5 @@
 ## Hey, I'm Adrian:
-  Full Stack Developer | UI/UX | Problem Solver | Digital enthusiasts | Idea to Product Ready apps
+  Traseable Software Dev Intern | Full Stack Developer | UI/UX 
   <br><br> - I build full-stack web and mobile applications. 
   <br> - On a mission to making digital solutions accessible where it matters most
   <br>- Loves turning ideas into production-ready apps
